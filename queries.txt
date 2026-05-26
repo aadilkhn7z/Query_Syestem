@@ -1,0 +1,48 @@
+
+
+Name    : Adil
+Process : IT
+Query   : I am Tired
+
+----------------------------------------
+
+
+
+Name    : Janvi
+Process : QA
+Query   : Email issue
+
+----------------------------------------
+
+
+
+Name    : Janvi
+Process : QA
+Query   : Email Issue
+
+----------------------------------------
+
+
+
+Name    : Port2
+Process : Axis
+Query   : fsadfsaf
+
+----------------------------------------
+
+
+
+Name    : fsd
+Process : dfa
+Query   : sdf
+
+----------------------------------------
+
+
+
+Name    : dfsdaf
+Process : sdfsa
+Query   : sdfsa
+
+----------------------------------------
+
