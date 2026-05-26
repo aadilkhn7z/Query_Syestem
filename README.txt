@@ -4,3 +4,5 @@ Implemented AJAX using the Fetch API to send data asynchronously without page re
 improving user experience and application performance. Integrated real-time browser
 notifications for instant query alerts and used PHP to dynamically process and store submitted
 data on the server side.
+
+you have to use Apache server to use in LAN like XMAPP.
